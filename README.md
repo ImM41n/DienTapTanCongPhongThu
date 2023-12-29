@@ -45,5 +45,7 @@
 ```
 ## Reference
 https://cardinal.ink/
+https://cloud.tencent.com/developer/article/1744139
 https://wazuh.com/blog/web-shell-attack-detection-with-wazuh/
 https://documentation.wazuh.com/current/index.html
+
