@@ -1,6 +1,7 @@
 # Đồ án Tốt nghiệp Đại Học
 # Xây dựng hệ thống diễn tập tấn công phòng thủ
 ## CTF AWD Caridinal x Wazuh x Snort x Web Vulner
+![Alt text](image.png)
 ## Mô tả
 ### Web 01
 - SQL injection
