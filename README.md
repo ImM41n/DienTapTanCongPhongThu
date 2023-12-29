@@ -42,3 +42,7 @@
 -	Máy chủ tính điểm: Thực hiện kiểm tra hoạt động của các thử thách. Xác thực flag của thử thách. Thực hiện trừ điểm khi flag đúng.
 -	Phòng thủ: Thực hiện điều tra chức năng có lỗ hổng. Xác định vấn đề và fix code để không khai thác được nữa.
 ```
+## Reference
+https://cardinal.ink/
+https://wazuh.com/blog/web-shell-attack-detection-with-wazuh/
+https://documentation.wazuh.com/current/index.html
